@@ -1,2 +1,3 @@
-# building-llm
-Learning building llm
+### Шпора по созданию LLM.
+
+![building-llm.jpg](building-llm.jpg)
